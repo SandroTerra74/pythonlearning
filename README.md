@@ -1,3 +1,4 @@
 # main
 Repositório para estudos em Python3.<br>
-Curso realizado no app PythonX.
+Curso realizado no app PythonX.<br>
+`git status`
