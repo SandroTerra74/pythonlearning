@@ -1,0 +1,10 @@
+import math
+print("PI")
+print(math.pi)
+print("TAU")
+print(math.tau)
+print("EULER")
+print(math.e)
+print("INFINITO")
+print("Infinito Positivo", math.inf)
+print("Infinito Negativo", -math.inf)
