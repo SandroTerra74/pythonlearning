@@ -1,2 +1,3 @@
-# pythonlearning
-Repositório para estudos da linguagem Python3
+# main
+Repositório para estudos em Python3.
+Curso realizado no app PythonX.
