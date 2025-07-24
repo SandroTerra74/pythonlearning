@@ -1,0 +1,7 @@
+try:
+    #statements that can raise the error
+except Exception1:
+    # if there is Exception1, then this block will be executed
+except Exception2
+    # if there is Exception2, then this block will be executed
+    
